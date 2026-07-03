@@ -28,7 +28,7 @@ After: the interface matches the rest of your desktop.
 ## Install
 
 ```bash
-git clone https://github.com/<you>/gfn-scaling-fix.git
+git clone https://github.com/optis20052/gfn-scaling-fix.git
 cd gfn-scaling-fix
 bash gfn-scaling-fix-install.sh
 ```
